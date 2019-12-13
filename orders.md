@@ -1,1 +1,6 @@
-coming soon
+---
+layout: page
+title: Orders
+
+---
+*coming soon*

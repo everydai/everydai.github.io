@@ -20,9 +20,9 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
+  About: "about"
   Artworks: "artworks"
   Limoncello: "limoncello"
-  About: "about"
   Orders: "orders"
   Custom Jobs: "customjobs"
   Contact: "contact"

@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+
+---
 
 Artificial intelligence-generated art is what we’re passionate about. Our mission is to pull artificial intelligence (AI) out of conventional AI carriers (phones, computers, cars), copy it and make it beneficial for even more everydai life stuff like music, limoncello and art. Art that will get you somewhere. Art with the purpose of getting you out of bed, setting and achieving your goals by going outside and getting sh*t done.
 
@@ -13,5 +18,3 @@ We can run your image of choice by our algorithms, AI-ing the f*ck out of it and
 
 How do we make this?
 We train our self-produced algorithm to deeply understand several 'styles' of images. Then, we feed content to the algorithm, telling it to 're-draw' the content image in the style of the style-image. We never know what the algorithm will spit out, but we are learning more and more to cooperate with it and get it to produce nice-looking paintings.
-
-
