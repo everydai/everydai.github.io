@@ -1,17 +1,17 @@
 # --- General options --- #
 
 # Name of website
-title: EPOS Autumn School 2019
+title: EVERYDAI
 
 # Short description of your site
-description: Deep Learning 
+description: art
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://eposdeeplearning.scholtelab.io"
+url: "https://github.com/everydai.github.io"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -20,15 +20,12 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Autumn School: "autumnschool"
-  Program: "program"
-  Symposium: "symposium"
-  Practical information: "information"
-  Registration: "registration"
-  Resources:
-    - Codecademy: "https://www.codecademy.com/learn/learn-python/"
-
-# -Learn markdown: "http://www.markdowntutorial.com/"
+  Artworks: "artworks"
+  Limoncello: "limoncello"
+  About: "about"
+  Orders: "orders"
+  Custom Jobs: "customjobs"
+  Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,7 +39,7 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#3CB371"
+navbar-col: "#FFFF99"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -64,15 +61,15 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: ScholteLab
-  
+  name: Everydai
+
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "eposdeeplearning@gmail.com"
+  email: "everydai.art@gmail.com"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -94,7 +91,7 @@ social-network-links:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "eposdeeplearning.scholtelab.io"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "everydai.scholtelab.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
