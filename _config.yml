@@ -1,6 +1,6 @@
 # --- General options --- #
 # Name of website
-title: 
+title: EVERYDAI
 # Short description of your site
 description: art
 
@@ -31,7 +31,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: "/imgs/icon.png"
+title-img: "/imgs/icon.png"
 
 # --- Background colour/image options --- #
 
