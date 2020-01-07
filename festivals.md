@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Festivals
----
 
-![alt text](/imgs/festival.jpg)
+bigimg:
+  - "/imgs/festival.jpg"
+---
