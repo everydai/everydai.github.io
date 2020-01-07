@@ -19,7 +19,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Artworks: "artworks"
+  Artworks:
     - festivals: "festivals"
     - watches: "watches"
   Limoncello: "limoncello"
