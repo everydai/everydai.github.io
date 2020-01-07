@@ -20,6 +20,8 @@ baseurl: ""
 navbar-links:
   About: "about"
   Artworks: "artworks"
+    - festivals: "festivals"
+    - watches: "watches"
   Limoncello: "limoncello"
   Orders: "orders"
   Custom Jobs: "customjobs"
