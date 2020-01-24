@@ -14,6 +14,9 @@ url: "https://everydai.github.io"
 # baseurl should be an empty string
 baseurl: ""
 
+
+
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -139,8 +142,9 @@ title-separator: "-"
 timezone: "Europe/Amsterdam"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+permalink: /blog/:title/
+paginate: 1
+paginate_path: "/page:num/"
 
 kramdown:
   input: GFM
