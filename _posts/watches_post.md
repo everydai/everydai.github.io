@@ -1,15 +1,13 @@
 ---
-layout: page
+tags: [watches]
+permalink: /blog/watches_post/
 title: "Everydai"
 subtitle: Watches
-bigimg:
-  - "/imgs/daytona.jpg" : "Daytona Fury"
-  - "/imgs/onyx.jpg" : "Onyx 1 Goldcubes"
-  - "/imgs/patek.jpg" : "Patek Painting"-->
 ---
 
 <div class="list-filters">
   I am into:
+  
   <a href="/festivals" class="list-filter">Festivals</a>
    |
   <a href="/watches" class="list-filter">Watches</a>
