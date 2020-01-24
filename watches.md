@@ -10,10 +10,13 @@ bigimg:
 ---
 
 <div class="list-filters">
-  <a href="/" class="list-filter">All posts</a>
-  <span class="list-filter filter-selected">Most Popular</span>
-  <a href="/tutorials" class="list-filter">Tutorials</a>
-  <a href="/tags" class="list-filter">Index</a>
+  <a href="/festivals" class="list-filter">Festivals</a>
+  <a href="/watches" class="list-filter">Watches</a>
+  <a href="/automobiles" class="list-filter">Automobiles</a>
+  <a href="/sports" class="list-filter">Sports</a>
+  <a href="/amsterdam" class="list-filter">Amsterdam</a>
+  <a href="/random" class="list-filter">Random mix</a>
+  <a href="/customjobs" class="list-filter">Something else</a>
 </div>
 
 <div class="posts-list">
