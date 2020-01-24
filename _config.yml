@@ -14,13 +14,11 @@ url: "https://everydai.github.io"
 # baseurl should be an empty string
 baseurl: ""
 
-
-
-
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   About: "about"
   Artworks: "artworks"
   Limoncello: "limoncello"

@@ -2,7 +2,6 @@
 layout: page
 title: "Everydai"
 subtitle: Watches
-permalink: /blog/watches/
 bigimg:
   - "/imgs/daytona.jpg" : "Daytona Fury"
   - "/imgs/onyx.jpg" : "Onyx 1 Goldcubes"
