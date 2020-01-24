@@ -1,8 +1,12 @@
 ---
 layout: page
 title: "Everydai"
-subtitle: Automobiles
-css: "/css/index.css"
+subtitle: Watches
+permalink: /blog/watches/
+bigimg:
+  - "/imgs/daytona.jpg" : "Daytona Fury"
+  - "/imgs/onyx.jpg" : "Onyx 1 Goldcubes"
+  - "/imgs/patek.jpg" : "Patek Painting"-->
 ---
 
 <div class="list-filters">
@@ -23,7 +27,7 @@ css: "/css/index.css"
 </div>
 
 <div class="posts-list">
-  {% for post in site.tags.automobiles %}
+  {% for post in site.tags.watches %}
   <article>
     <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
 	    <h2 class="post-title">{{ post.title }}</h2>

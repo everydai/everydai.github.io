@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Random mix
-
+title: "Everydai"
+subtitle: Random
+permalink: /blog/random/
 ---

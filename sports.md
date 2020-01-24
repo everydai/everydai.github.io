@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Sports
-
+title: "Everydai"
+subtitle: Sports
+permalink: /blog/sports/
 ---
