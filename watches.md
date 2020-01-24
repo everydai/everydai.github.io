@@ -42,3 +42,5 @@ bigimg:
    </article>
   {% endfor %}
 </div>
+
+![alt text](/imgs/festival.jpg)
